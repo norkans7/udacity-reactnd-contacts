@@ -3,7 +3,7 @@ import ListContacts from './listContacts'
 
 class App extends Component {
   state = {
-    contacts = [
+    contacts: [
       {
         "id": "ryan",
         "name": "Ryan Florence",
